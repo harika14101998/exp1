@@ -16,7 +16,7 @@ public static void main(String args[])
 	String m="";
 	for(i=j-1;i>=0;i--)
 	{
-	m=m+n.charAt(i)2;
+	m=m+n.charAt(i);
 	}
 	System.out.println("reverse of string is " +m);
 	for(l=0;l<=n.length()-1;l++)
