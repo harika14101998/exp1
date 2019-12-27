@@ -1,0 +1,35 @@
+.redbox{
+    background-color:rgb(250, 157, 157);
+    margin:50px;
+    margin-right: 1000px;
+    padding:40px;
+
+}
+
+.yellowbox{
+    background-color:rgb(252, 252, 144);
+    margin:50px;
+    margin-right: 1000px;
+    padding:40px;
+}
+.bluebox{
+    background-color:rgb(191, 191, 253);
+    margin:50px;
+    margin-right: 1000px;
+    padding:40px;
+}
+.greenbox{
+    background-color:rgb(126, 252, 126);
+    margin:50px;
+    margin-right: 1000px;
+    padding:40px;
+}
+.pinkbox{
+    background-color:pink;
+    margin:50px;
+    margin-right: 1000px;
+    padding:40px;
+}
+#registerForm{
+    background-color: rgb(203, 196, 245);
+}
